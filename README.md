@@ -20,7 +20,7 @@
 <br> <br>
 
    🌱 I’m currently  studying **Systems Engineering at USO**
-   <br>
+   <br><br>
 	Rigth now I'm learning 2 lenguages 
        <br>
        <ol>
