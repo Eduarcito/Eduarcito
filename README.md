@@ -8,7 +8,8 @@
 		
 
 </p>
-
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Eduarcito)
+[![Github](https://img.shields.io/github/followers/Eduarcito?label=Follow&style=social)](https://github.com/Eduarcito)
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
