@@ -19,7 +19,9 @@
 <br> <br>
 
    🌱 I’m currently  studying **Systems Engineering at USO**
+   <br>
        I'm learning 3 lenguages 
+       <br>
        		1- C#
 	 	2- Visual Basic
    		3- JavScript
