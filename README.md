@@ -60,7 +60,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 
 
-<hr width="36%" >
+<hr width="65%" >
 
 
 
