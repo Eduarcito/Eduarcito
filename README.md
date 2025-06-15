@@ -20,9 +20,9 @@
 
    🌱 I’m currently  studying **Systems Engineering at USO**
    <br>
-       I'm learning 2 lenguages 
+	I'm learning 2 lenguages 
        <br>
-       <hr>		1- C#
+       		1- C#
 	 	2- Visual Basic
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -60,7 +60,7 @@
 
 <hr width="36%" >
 
-<h3>My GitHub Stats</h3>
+<h3>My GitHub Stats are: </h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduarcito&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
