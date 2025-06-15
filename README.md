@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-<h1 align="center">Hi, I'm Eduardo Iraheta <i class="fa fa-desktop"></i></h1>
+<h1 align="center">Hi, I'm Eduardo Iraheta <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"></h1>
 
 
 
