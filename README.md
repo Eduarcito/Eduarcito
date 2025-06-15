@@ -22,8 +22,10 @@
    <br>
 	I'm learning 2 lenguages 
        <br>
-       		1- C#
-	 	2- Visual Basic
+       <ol>
+        <li>C#</li>
+  <li>Visual Basic</li>
+       </ol>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
