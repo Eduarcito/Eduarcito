@@ -8,9 +8,7 @@
 		
 
 </p>
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Eduarcito)
-[![Github](https://img.shields.io/github/followers/Eduarcito?label=Follow&style=social)](https://github.com/Eduarcito)
-	
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 360px></picture>
@@ -88,4 +86,7 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eduarcito&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
  </div>
+
+ <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
