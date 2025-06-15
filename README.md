@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Eduardo Iraheta <i class="fa fa-desktop"></i>
-</h1>
-
+<h1 align="center">Hi, I'm Eduardo Iraheta <i class="fa fa-desktop"></i></h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 
 <br>
