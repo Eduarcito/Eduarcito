@@ -73,7 +73,9 @@
 <p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduarcito&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Eduarcito&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400" /></p>
 <br><br><br><br><br>
-
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
 <hr>
 
 
