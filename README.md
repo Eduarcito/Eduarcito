@@ -44,14 +44,13 @@
 
 ## 📊 GitHub Stats
 
-## 📊 My Custom GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-api-o60x.onrender.com/stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarcito&layout=compact&theme=tokyonight&langs_count=5&cache_seconds=86400" />
+  <img src="https://github-stats-api-o60x.onrender.com/languages" />
 </p>
 
 ---
