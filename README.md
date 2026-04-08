@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"/> 
+  <img src="https://cdn.simpleicons.org/github" width="20"/> 
   Systems Engineering Student | 
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25"/> 
+  <img src="https://cdn.simpleicons.org/vercel" width="20"/> 
   Developer in progress
 </p>
 
