@@ -7,17 +7,21 @@
   💻 Systems Engineering Student | 🚀 Developer in progress
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eduarcito&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> About me
+## 🧑‍💻 About Me
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px">
 </picture>
 
-🌱 I’m currently studying **Systems Engineering at USO**  
-💡 Passionate about web development and building real-world systems  
-⚡ Always learning new technologies and improving my skills  
+🌱 I’m currently studying **Systems Engineering at USO**
+💡 Passionate about **web development** and building real-world systems
+⚡ Always learning new technologies and improving my skills
 
 <br><br>
 
@@ -42,20 +46,19 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-api-o60x.onrender.com/stats" />
+  <img src="https://github-stats-api-o60x.onrender.com/stats?v=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-api-o60x.onrender.com/languages" />
+  <img src="https://github-stats-api-o60x.onrender.com/languages?v=2" alt="Languages Graph" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Eduarcito&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=10" />
@@ -63,10 +66,11 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Eduarcito&theme=tokyonight" /></p>
+  <img src="https://streak-stats.demolab.com?user=Eduarcito&theme=tokyonight" />
+</p>
 
 ---
 
