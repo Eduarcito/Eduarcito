@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-api-o60x.onrender.com/languages?v=2" alt="Languages Graph" />
+  <img src="[https://github-stats-api-o60x.onrender.com/languages?v=2](https://github-stats-api-o60x.onrender.com/languages)" alt="Languages Graph" />
 </p>
 
 ---
