@@ -45,12 +45,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduarcito&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Eduarcito&show_icons=true&theme=tokyonight&cache_seconds=1800" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduarcito&show_icons=true&locale=en&theme=chartreuse-dark" width="400"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarcito&layout=compact&theme=tokyonight&cache_seconds=1800" /></p>
 
 ---
 
@@ -65,8 +63,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Eduarcito&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Eduarcito&theme=tokyonight" /></p>
 
 ---
 
