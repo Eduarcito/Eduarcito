@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://api.iconify.design/mdi:computer.svg" width="20"/> 
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"/> 
   Systems Engineering Student | 
-  <img src="https://api.iconify.design/mdi:rocket.svg" width="20"/> 
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25"/> 
   Developer in progress
 </p>
 
