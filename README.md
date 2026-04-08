@@ -4,7 +4,10 @@
 </h1>
 
 <p align="center">
-  Systems Engineering Student | 🚀 Developer in progress
+  <img src="https://api.iconify.design/mdi:computer.svg" width="20"/> 
+  Systems Engineering Student | 
+  <img src="https://api.iconify.design/mdi:rocket.svg" width="20"/> 
+  Developer in progress
 </p>
 
 <p align="center">
