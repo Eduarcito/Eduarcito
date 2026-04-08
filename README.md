@@ -44,8 +44,10 @@
 
 ## 📊 GitHub Stats
 
+## 📊 My Custom GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduarcito&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-stats-api-o60x.onrender.com/stats" />
 </p>
 
 <p align="center">
