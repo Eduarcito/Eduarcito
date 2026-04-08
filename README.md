@@ -45,17 +45,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Eduarcito&show_icons=true&theme=tokyonight&cache_seconds=1800" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduarcito&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarcito&layout=compact&theme=tokyonight&cache_seconds=1800" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarcito&layout=compact&theme=tokyonight&langs_count=5&cache_seconds=86400" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eduarcito&theme=juicyfresh&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eduarcito&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=10" />
 </p>
 
 ---
