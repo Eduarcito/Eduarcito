@@ -54,10 +54,8 @@
 
 <p align="center">
   <img 
-    src="https://github-stats-api-o60x.onrender.com/languages?v=2" 
-    alt="Languages Graph"
+    src="https://github-stats-api-o60x.onrender.com/languages?v=3" 
     width="500"
-    style="border-radius: 12px;"
   />
 </p>
 
