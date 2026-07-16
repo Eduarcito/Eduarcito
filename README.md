@@ -1,83 +1,109 @@
-<h1 align="center">
-  Hi, I'm Eduardo Iraheta 
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://api.iconify.design/mdi:school.svg" width="20"/> 
-  Systems Engineering Student | 
-  <img src="https://api.iconify.design/mdi:rocket-launch.svg" width="20"/> 
-  Developer in progress
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:22C55E&text=Eduardo%20Iraheta&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Developer%20in%20progress&descAlignY=58&animation=fadeIn" alt="Header" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eduarcito&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+  <a href="https://github.com/Eduarcito">
+    <img src="https://komarev.com/ghpvc/?username=Eduarcito&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Eduarcito?tab=followers">
+    <img src="https://img.shields.io/github/followers/Eduarcito?label=Followers&style=for-the-badge&color=22c55e&labelColor=0f172a" alt="GitHub followers" />
+  </a>
 
----
+  <br />
+  <br />
 
-## 🧑‍💻 About Me
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Construyendo+soluciones+web;y+aprendiendo+algo+nuevo+cada+d%C3%ADa;con+curiosidad%2C+c%C3%B3digo+y+constancia" alt="Typing animation" />
 
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px">
-</picture>
-
-🌱 I’m currently studying **Systems Engineering at USO**
-💡 Passionate about **web development** and building real-world systems
-⚡ Always learning new technologies and improving my skills
-
-<br><br>
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## Sobre mí
 
-<p align="center">
-  <a href="https://getbootstrap.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40"/></a>
-</p>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="260" alt="Coding animation" />
+
+Soy **Eduardo Iraheta**, estudiante de **Ingeniería en Sistemas en USO** y desarrollador en crecimiento. Me gusta crear proyectos útiles, aprender tecnologías modernas y convertir ideas en sistemas que realmente funcionen.
+
+- Actualmente estoy fortaleciendo mis bases en **desarrollo web**, **bases de datos** y **arquitectura de software**.
+- Me interesa construir aplicaciones limpias, funcionales y fáciles de usar.
+- Disfruto aprender con proyectos reales, resolver problemas y mejorar un poco más con cada commit.
+
+<br clear="right" />
 
 ---
 
-## 📊 GitHub Analytics
+## Stack y herramientas
 
-<p align="center">
-  <img src="https://github-stats-api-o60x.onrender.com/stats?v=2" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-stats-api-o60x.onrender.com/languages?v=3" 
-    width="500"
-  />
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,c,cpp,java,maven,mysql,linux,git,github&perline=8" alt="Tech stack" />
+
+</div>
 
 ---
 
-## 🏆 Achievements
+## En qué estoy enfocado
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eduarcito&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=10" />
-</p>
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Frontend</h3>
+      <p align="center">Interfaces modernas, responsivas y agradables para el usuario.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Backend</h3>
+      <p align="center">Lógica, APIs y conexión con bases de datos para sistemas completos.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Aprendizaje</h3>
+      <p align="center">Práctica constante, mejores hábitos de código y nuevos retos.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 Contribution Streak
+## GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eduarcito&theme=tokyonight" />
-</p>
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eduarcito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=E5E7EB" alt="Eduardo's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarcito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" alt="Most used languages" />
+
+  <br />
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=Eduarcito&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8" alt="GitHub streak" />
+
+</div>
 
 ---
 
-<img width="100%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## Logros
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Eduarcito&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## Conecta conmigo
+
+<div align="center">
+
+  <a href="https://github.com/Eduarcito">
+    <img src="https://img.shields.io/badge/GitHub-Eduarcito-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+
+  <br />
+  <br />
+
+  <strong>Gracias por visitar mi perfil.</strong>
+  <br />
+  <span>Siempre aprendiendo, creando y mejorando.</span>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22C55E,50:2563EB,100:0F172A&section=footer" alt="Footer" width="100%" />
