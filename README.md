@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,35:0F172A,70:2563EB,100:22C55E&text=Eduardo%20Iraheta&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=Systems%20Engineering%20Student%20%7C%20Linux%20User%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=58&animation=fadeIn" alt="Eduardo Iraheta header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=255&color=0:020617,30:0F172A,58:0891B2,82:F97316,100:DC2626&text=Eduardo%20Iraheta&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Linux%20User%20%7C%20Full-Stack%20Developer%20in%20Progress%20%7C%20AI%20Automation%20Lab&descAlignY=58&animation=fadeIn" alt="Eduardo Iraheta futuristic developer header" width="100%" />
 
   <a href="https://github.com/Eduarcito">
     <img src="https://komarev.com/ghpvc/?username=Eduarcito&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
@@ -9,22 +9,22 @@
     <img src="https://img.shields.io/github/followers/Eduarcito?label=Followers&style=for-the-badge&color=22c55e&labelColor=020617" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Eduarcito?tab=repositories">
-    <img src="https://img.shields.io/badge/Linux-Workflow-38bdf8?style=for-the-badge&logo=linux&logoColor=white&labelColor=020617" alt="Linux workflow" />
+    <img src="https://img.shields.io/badge/HUD-Developer%20Mode-06b6d4?style=for-the-badge&labelColor=020617" alt="HUD developer mode" />
   </a>
 
   <br />
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=Linux-minded+developer+in+progress;Building+modern+web+experiences;Exploring+AI%2C+automation+and+data+workflows;Terminal.+Code.+Automate.+Ship." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=900&lines=Initializing+developer+HUD...;Linux+terminal+workflow+online;Full-stack+modules+charging;AI+automation+lab+ready;Build.+Debug.+Upgrade.+Deploy." alt="Typing animation" />
 
   <br />
   <br />
 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="48" alt="About me sticker" />
-  <img src="https://img.shields.io/badge/Developer%20Mode-ON-22c55e?style=for-the-badge&labelColor=020617" alt="Developer mode on" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-2563eb?style=for-the-badge&labelColor=020617" alt="Full stack and AI focus" />
+  <img src="https://img.shields.io/badge/Core-ONLINE-22c55e?style=for-the-badge&labelColor=020617" alt="Core online" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack%20%2B%20AI-06b6d4?style=for-the-badge&labelColor=020617" alt="Full stack and AI focus" />
   <img src="https://img.shields.io/badge/Terminal-First-111827?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=020617" alt="Terminal first" />
-  <img src="https://img.shields.io/badge/Mindset-Build%20Every%20Day-f97316?style=for-the-badge&labelColor=020617" alt="Build every day" />
+  <img src="https://img.shields.io/badge/Upgrade-Continuous-f97316?style=for-the-badge&labelColor=020617" alt="Continuous upgrade" />
 
 </div>
 
@@ -59,18 +59,42 @@ const eduardo = {
 ## Terminal Snapshot
 
 ```bash
-eduardo@linux:~$ whoami
-Systems Engineering Student | Full-Stack Developer in Progress
+eduardo@linux-lab:~$ ./boot-hud.sh
+[OK] Developer core initialized
+[OK] Linux terminal workflow online
+[OK] Full-stack modules loaded
+[OK] AI automation lab connected
 
-eduardo@linux:~$ current_focus
-React + Node.js + Java + MySQL + Supabase + AI automation
+eduardo@linux-lab:~$ scan --current-focus
+React | Node.js | Java | MySQL | Supabase | Codex | n8n
 
-eduardo@linux:~$ workflow
-plan -> code -> test -> debug -> document -> ship
+eduardo@linux-lab:~$ mission
+Build useful systems, automate smart workflows, keep upgrading.
 
-eduardo@linux:~$ motto
-"Build useful things, understand the system, keep improving."
+eduardo@linux-lab:~$ status
+Learning: ACTIVE | Debugging: ALWAYS | Shipping: IN PROGRESS
 ```
+
+---
+
+## Arc Reactor Core
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/CORE-LINUX%20WORKFLOW-06B6D4?style=for-the-badge&labelColor=020617" alt="Linux workflow core" />
+  <img src="https://img.shields.io/badge/MODULE-FULL%20STACK-F97316?style=for-the-badge&labelColor=020617" alt="Full stack module" />
+  <img src="https://img.shields.io/badge/SYSTEM-AI%20AUTOMATION-DC2626?style=for-the-badge&labelColor=020617" alt="AI automation system" />
+  <img src="https://img.shields.io/badge/STATUS-UNDER%20UPGRADE-22C55E?style=for-the-badge&labelColor=020617" alt="Under upgrade" />
+
+</div>
+
+| Core Layer | Current Power |
+| --- | --- |
+| **Operating System Mindset** | Linux workflows, terminal navigation, Bash basics and system thinking |
+| **Interface Layer** | React, JavaScript, Tailwind CSS, Bootstrap and responsive UI |
+| **Logic Layer** | Node.js, Java, APIs, authentication and backend foundations |
+| **Data Layer** | MySQL, Supabase, structured data and MCP-connected workflows |
+| **Automation Layer** | Codex, Firecrawl, n8n, ElevenLabs and AI-assisted development |
 
 ---
 
@@ -134,28 +158,43 @@ learning_style="Build projects, break things, debug, repeat"
 
 ---
 
-## What I Build
+## Suit Modules
 
 <table>
   <tr>
     <td width="25%">
-      <h3 align="center">Frontend</h3>
-      <p align="center">Responsive interfaces, reusable components and polished user experiences.</p>
+      <h3 align="center">HUD Interface</h3>
+      <p align="center">Responsive UIs, reusable components and polished user experiences.</p>
     </td>
     <td width="25%">
-      <h3 align="center">Backend</h3>
-      <p align="center">APIs, server logic, authentication flows and database-connected systems.</p>
+      <h3 align="center">Power Core</h3>
+      <p align="center">APIs, server logic, authentication flows and backend systems.</p>
     </td>
     <td width="25%">
-      <h3 align="center">AI Workflows</h3>
+      <h3 align="center">AI Assistant</h3>
       <p align="center">AI-assisted development, automation chains, web research and voice tools.</p>
     </td>
     <td width="25%">
-      <h3 align="center">Data</h3>
-      <p align="center">Structured data, SQL practice, Supabase projects and MCP-connected workflows.</p>
+      <h3 align="center">Data Scanner</h3>
+      <p align="center">SQL practice, Supabase projects and MCP-connected workflows.</p>
     </td>
   </tr>
 </table>
+
+---
+
+## System Diagnostics
+
+```txt
+DEVELOPER PROFILE
+├─ Identity: Systems Engineering Student
+├─ OS Mode: Linux-minded / terminal-first
+├─ Main Stack: HTML, CSS, JavaScript, React, Node.js, Java
+├─ Database Layer: MySQL, Supabase
+├─ AI Lab: Codex, Firecrawl, ElevenLabs, n8n, Data MCP
+├─ Build Style: Learn by shipping real projects
+└─ Current State: Upgrading daily
+```
 
 ---
 
@@ -182,6 +221,16 @@ Data            MySQL, Supabase, structured workflows
 AI / Automation Codex, Firecrawl, ElevenLabs, n8n, Data MCP
 Practice        Build projects, read errors, debug, improve
 ```
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/scan-frontend%20systems-06B6D4?style=flat-square&labelColor=020617" alt="Scan frontend systems" />
+  <img src="https://img.shields.io/badge/scan-backend%20engine-F97316?style=flat-square&labelColor=020617" alt="Scan backend engine" />
+  <img src="https://img.shields.io/badge/scan-database%20layer-22C55E?style=flat-square&labelColor=020617" alt="Scan database layer" />
+  <img src="https://img.shields.io/badge/scan-ai%20automation-DC2626?style=flat-square&labelColor=020617" alt="Scan AI automation" />
+  <img src="https://img.shields.io/badge/scan-linux%20terminal-FACC15?style=flat-square&labelColor=020617" alt="Scan Linux terminal" />
+
+</div>
 
 ---
 
@@ -219,16 +268,16 @@ Practice        Build projects, read errors, debug, improve
 
 ---
 
-## Learning Roadmap
+## Upgrade Path
 
 ```mermaid
 flowchart LR
-    A["Linux + Git"] --> B["Frontend UI"]
-    B --> C["Backend APIs"]
-    C --> D["Databases"]
-    D --> E["Full-Stack Apps"]
-    E --> F["AI Tools"]
-    F --> G["Automation"]
+    A["Linux Core"] --> B["Frontend HUD"]
+    B --> C["Backend Engine"]
+    C --> D["Database Layer"]
+    D --> E["Full-Stack Systems"]
+    E --> F["AI Assistant"]
+    F --> G["Automation Protocols"]
     G --> H["Real Products"]
 ```
 
@@ -291,29 +340,29 @@ flowchart LR
 
 ---
 
-## My Developer Principles
+## Engineering Protocols
 
 | Principle | Meaning |
 | --- | --- |
-| **Build before feeling ready** | Real projects teach faster than waiting for perfect confidence. |
-| **Understand the system** | Good developers know what happens under the UI, inside the API, and behind the terminal. |
-| **Keep it readable** | Clean code is a gift to future me and future teammates. |
-| **Debug with patience** | Bugs are signals; every fix teaches how the system really works. |
-| **Automate the boring parts** | Scripts, AI and workflows are multipliers when fundamentals are strong. |
+| **Prototype Fast** | Real projects reveal what theory alone cannot show. |
+| **Understand the Machine** | Know what happens under the UI, inside the API, and behind the terminal. |
+| **Keep the Code Clean** | Readable code is maintainable code. |
+| **Debug Like an Engineer** | Logs, errors and tests are system signals, not obstacles. |
+| **Automate the Repetitive** | Scripts, AI and workflows multiply strong fundamentals. |
 
 ---
 
-## Developer Loop
+## Build Protocol
 
 ```mermaid
 flowchart TD
-    A["Read the problem"] --> B["Design a small solution"]
-    B --> C["Code with focus"]
-    C --> D["Run it locally"]
-    D --> E{"Does it work?"}
-    E -- "No" --> F["Debug logs, terminal, docs"]
+    A["Mission Brief"] --> B["Design Module"]
+    B --> C["Code System"]
+    C --> D["Local Test"]
+    D --> E{"Stable?"}
+    E -- "No" --> F["Debug: logs, terminal, docs"]
     F --> C
-    E -- "Yes" --> G["Refine, commit, ship"]
+    E -- "Yes" --> G["Refine, Commit, Deploy"]
 ```
 
 ---
