@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,45:2563EB,100:22C55E&text=Eduardo%20Iraheta&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=Systems%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress%20%7C%20AI%20Automation%20Explorer&descAlignY=58&animation=fadeIn" alt="Eduardo Iraheta header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,35:0F172A,70:2563EB,100:22C55E&text=Eduardo%20Iraheta&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=Systems%20Engineering%20Student%20%7C%20Linux%20User%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=58&animation=fadeIn" alt="Eduardo Iraheta header" width="100%" />
 
   <a href="https://github.com/Eduarcito">
     <img src="https://komarev.com/ghpvc/?username=Eduarcito&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/github/followers/Eduarcito?label=Followers&style=for-the-badge&color=22c55e&labelColor=020617" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Eduarcito?tab=repositories">
-    <img src="https://img.shields.io/badge/Building-Web%20%2B%20AI%20Tools-38bdf8?style=for-the-badge&labelColor=020617" alt="Building web and AI tools" />
+    <img src="https://img.shields.io/badge/Linux-Workflow-38bdf8?style=for-the-badge&logo=linux&logoColor=white&labelColor=020617" alt="Linux workflow" />
   </a>
 
   <br />
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Full-stack+developer+in+progress;Building+modern+web+experiences;Exploring+AI%2C+automation+and+data+workflows;Code.+Learn.+Automate.+Ship." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=Linux-minded+developer+in+progress;Building+modern+web+experiences;Exploring+AI%2C+automation+and+data+workflows;Terminal.+Code.+Automate.+Ship." alt="Typing animation" />
 
   <br />
   <br />
@@ -23,6 +23,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="48" alt="About me sticker" />
   <img src="https://img.shields.io/badge/Developer%20Mode-ON-22c55e?style=for-the-badge&labelColor=020617" alt="Developer mode on" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-2563eb?style=for-the-badge&labelColor=020617" alt="Full stack and AI focus" />
+  <img src="https://img.shields.io/badge/Terminal-First-111827?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=020617" alt="Terminal first" />
   <img src="https://img.shields.io/badge/Mindset-Build%20Every%20Day-f97316?style=for-the-badge&labelColor=020617" alt="Build every day" />
 
 </div>
@@ -33,24 +34,43 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="285" alt="Developer coding sticker" />
 
-Hi, I'm **Eduardo Iraheta**, a **Systems Engineering student at USO** and a developer in progress. I like turning ideas into useful software, learning through real projects, and experimenting with modern tools that connect web development, automation, AI and data.
+Hi, I'm **Eduardo Iraheta**, a **Systems Engineering student at USO**, Linux user and developer in progress. I like turning ideas into useful software, learning through real projects, and experimenting with modern tools that connect web development, automation, AI and data.
 
 ```ts
 const eduardo = {
   role: "Systems Engineering Student",
   path: "Full-Stack Developer in Progress",
+  os: "Linux-minded workflow",
   interests: ["Web Apps", "Databases", "AI Tools", "Automation", "Data Workflows"],
   currentlyBuilding: "Projects that mix clean UI, useful logic and smart workflows",
   mindset: "Stay curious, build consistently, improve with every commit"
 };
 ```
 
-- I am building stronger foundations in **frontend**, **backend**, **databases**, and **software architecture**.
+- I am building stronger foundations in **frontend**, **backend**, **databases**, **Linux workflows**, and **software architecture**.
 - I enjoy creating interfaces that feel clean, responsive and practical.
 - I am exploring **Codex**, **Firecrawl**, **ElevenLabs**, **n8n**, **Supabase**, and **Data MCP** for modern developer workflows.
 - I care about writing code that is organized, readable and useful in the real world.
 
 <br clear="right" />
+
+---
+
+## Terminal Snapshot
+
+```bash
+eduardo@linux:~$ whoami
+Systems Engineering Student | Full-Stack Developer in Progress
+
+eduardo@linux:~$ current_focus
+React + Node.js + Java + MySQL + Supabase + AI automation
+
+eduardo@linux:~$ workflow
+plan -> code -> test -> debug -> document -> ship
+
+eduardo@linux:~$ motto
+"Build useful things, understand the system, keep improving."
+```
 
 ---
 
@@ -64,6 +84,9 @@ const eduardo = {
   <br />
 
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Terminal-0F172A?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/Firecrawl-F97316?style=for-the-badge&logoColor=white" alt="Firecrawl" />
   <img src="https://img.shields.io/badge/ElevenLabs-111111?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -71,6 +94,43 @@ const eduardo = {
   <img src="https://img.shields.io/badge/Data%20MCP-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Data MCP" />
 
 </div>
+
+---
+
+## Linux Workstation Mindset
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <strong>Terminal</strong>
+      <br />
+      I like command-line workflows, fast navigation and developer tooling.
+    </td>
+    <td width="25%" align="center">
+      <strong>Git</strong>
+      <br />
+      Version control, commits, branches and learning through real project history.
+    </td>
+    <td width="25%" align="center">
+      <strong>Automation</strong>
+      <br />
+      Scripts, n8n flows, AI-assisted tasks and repeatable processes.
+    </td>
+    <td width="25%" align="center">
+      <strong>Systems</strong>
+      <br />
+      Understanding how software, OS tools, servers and data connect.
+    </td>
+  </tr>
+</table>
+
+```bash
+# My kind of developer environment
+editor="VS Code"
+shell="Bash / terminal workflow"
+version_control="Git + GitHub"
+learning_style="Build projects, break things, debug, repeat"
+```
 
 ---
 
@@ -106,8 +166,22 @@ const eduardo = {
 | **Modern Frontend** | HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS and responsive UI design |
 | **Backend Foundations** | Node.js, Java, API design, authentication, clean project structure and real system logic |
 | **Databases** | MySQL and Supabase for data-driven apps, CRUD flows and practical database design |
+| **Linux Skills** | Terminal workflow, Git, shell basics, local environments and developer productivity |
 | **AI + Automation** | Codex, Firecrawl, ElevenLabs, n8n and Data MCP for smarter development workflows |
 | **Engineering Habits** | Cleaner commits, better organization, debugging discipline and continuous learning |
+
+---
+
+## Tools I Reach For
+
+```txt
+OS / Workflow   Linux mindset, terminal, Bash, Git
+Frontend        HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS
+Backend         Node.js, Java, Maven, API logic
+Data            MySQL, Supabase, structured workflows
+AI / Automation Codex, Firecrawl, ElevenLabs, n8n, Data MCP
+Practice        Build projects, read errors, debug, improve
+```
 
 ---
 
@@ -149,12 +223,13 @@ const eduardo = {
 
 ```mermaid
 flowchart LR
-    A["Frontend UI"] --> B["Backend APIs"]
-    B --> C["Databases"]
-    C --> D["Full-Stack Apps"]
-    D --> E["AI Tools"]
-    E --> F["Automation"]
-    F --> G["Real Products"]
+    A["Linux + Git"] --> B["Frontend UI"]
+    B --> C["Backend APIs"]
+    C --> D["Databases"]
+    D --> E["Full-Stack Apps"]
+    E --> F["AI Tools"]
+    F --> G["Automation"]
+    G --> H["Real Products"]
 ```
 
 ---
@@ -221,9 +296,25 @@ flowchart LR
 | Principle | Meaning |
 | --- | --- |
 | **Build before feeling ready** | Real projects teach faster than waiting for perfect confidence. |
+| **Understand the system** | Good developers know what happens under the UI, inside the API, and behind the terminal. |
 | **Keep it readable** | Clean code is a gift to future me and future teammates. |
-| **Learn in public** | Every repository is a snapshot of progress. |
-| **Use tools wisely** | AI and automation are multipliers when the fundamentals are strong. |
+| **Debug with patience** | Bugs are signals; every fix teaches how the system really works. |
+| **Automate the boring parts** | Scripts, AI and workflows are multipliers when fundamentals are strong. |
+
+---
+
+## Developer Loop
+
+```mermaid
+flowchart TD
+    A["Read the problem"] --> B["Design a small solution"]
+    B --> C["Code with focus"]
+    C --> D["Run it locally"]
+    D --> E{"Does it work?"}
+    E -- "No" --> F["Debug logs, terminal, docs"]
+    F --> C
+    E -- "Yes" --> G["Refine, commit, ship"]
+```
 
 ---
 
