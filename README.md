@@ -30,6 +30,33 @@
 
 ---
 
+## Profile Elevation Protocol
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/GitHub%20Profile-Elevated-06B6D4?style=for-the-badge&labelColor=020617" alt="GitHub profile elevated" />
+  <img src="https://img.shields.io/badge/DSA-LeetCode%20Stats-F89F1B?style=for-the-badge&logo=leetcode&logoColor=111111&labelColor=020617" alt="LeetCode stats" />
+  <img src="https://img.shields.io/badge/Terminal-Green%20Mode-22C55E?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=020617" alt="Terminal green mode" />
+
+  <br />
+  <br />
+
+  <a href="https://leetcode.com/Eduarcito">
+    <img src="https://leetcard.jacoblin.cool/Eduarcito?theme=dark&font=Fira%20Code&ext=heatmap" alt="Eduardo's LeetCode training dashboard" />
+  </a>
+
+</div>
+
+```bash
+profile@github:~$ elevate --with dsa --theme dark
+[OK] GitHub README upgraded
+[OK] LeetCode module connected
+[OK] Linux terminal aesthetic enabled
+[OK] Developer signal boosted
+```
+
+---
+
 ## About Me
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="285" alt="Developer coding sticker" />
@@ -73,6 +100,15 @@ Build useful systems, automate smart workflows, keep upgrading.
 
 eduardo@linux-lab:~$ status
 Learning: ACTIVE | Debugging: ALWAYS | Shipping: IN PROGRESS
+```
+
+```diff
++ SYSTEM READOUT
++ public_profile: online
++ leetcode_stats: connected
++ linux_workflow: active
++ automation_lab: charging
++ next_upgrade: stronger projects + cleaner architecture
 ```
 
 ---
@@ -195,6 +231,25 @@ DEVELOPER PROFILE
 ├─ Build Style: Learn by shipping real projects
 └─ Current State: Upgrading daily
 ```
+
+---
+
+## DSA Combat HUD
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/LeetCode-Training%20Mode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=111111&labelColor=020617" alt="LeetCode training mode" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-06B6D4?style=for-the-badge&labelColor=020617" alt="DSA problem solving" />
+  <img src="https://img.shields.io/badge/Status-Upgrading%20Logic-22C55E?style=for-the-badge&labelColor=020617" alt="Upgrading logic" />
+
+</div>
+
+| Training Module | Current Objective |
+| --- | --- |
+| **Arrays & Strings** | Improve pattern recognition and implementation speed |
+| **Hash Maps & Sets** | Build stronger lookup and frequency-counting logic |
+| **Recursion & Backtracking** | Practice breaking big problems into small decisions |
+| **SQL + Data Thinking** | Connect problem solving with real data workflows |
 
 ---
 
